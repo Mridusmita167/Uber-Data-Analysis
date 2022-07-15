@@ -1,0 +1,3 @@
+# Uber-Data-Analysis
+Uber is an international company located in 69 countries and around 900 cities around the world. Lyft, on the other hand, operates in approximately 644 cities in the US and 12 cities in Canada alone. However, in the US, it is the second-largest passenger company with a market share of 31%.
+Many articles focus on algorithm/model learning, data purification, feature extraction, and fail to define the purpose of the model. Understanding the business model can help identify challenges that can be solved using analytics and scientific data. In this analysis, we go through the Uber Model, which provides a framework for end-to-end prediction analytics of Uber data prediction sources.
